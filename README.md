@@ -18,8 +18,7 @@ class Esteban {
     String[] skills = {"HTML", "CSS", "JavaScript"};
     String[] aprendiendo = {"C", "Java", "SQL"};
 }
-
-
+```markdown
 ## ⚡ Skills
 
 <p align="center">
@@ -37,5 +36,3 @@ class Esteban {
 <p align="center">
 👾 Code • Learn • Build
 </p>
-```
-![snake gif](https://github.com/estebanpineyrua/estebanpineyrua/blob/output/github-contribution-grid-snake.svg)
