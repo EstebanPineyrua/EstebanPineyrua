@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">👾 Esteban Piñeyrua</h1>
 
-<!--
-**EstebanPineyrua/EstebanPineyrua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Developer en formación<br>
+📚 Aprendiendo programación<br>
+🇦🇷 Argentina
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mi
+
+```java
+class Esteban {
+    String nombre = "Esteban Piñeyrua";
+    String pais = "Argentina";
+
+    String[] skills = {"HTML", "CSS", "JavaScript"};
+    String[] aprendiendo = {"C", "Java", "SQL"};
+}
+
+
+Skills
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+
+Aprendiendo 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,java,mysql" />
+</p>
+
+<p align="center">
+👾 Code • Learn • Build
+</p>
+```
+![snake gif](https://github.com/estebanpineyrua/estebanpineyrua/blob/output/github-contribution-grid-snake.svg)
