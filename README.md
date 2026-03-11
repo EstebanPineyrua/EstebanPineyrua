@@ -38,7 +38,6 @@ class Esteban {
   <img src="https://skillicons.dev/icons?i=c,java,mysql" />
 </p>
 
-> Cursando **Programación 1**, **Arquitectura y Sistemas Operativos**, **Matemáticas** y **Organización Empresarial** — 1er cuatrimestre 2026.
 
 ---
 
