@@ -9,34 +9,34 @@
 ---
 
 ## 🧑‍💻 Sobre mí
+
 ```java
 class Esteban {
-    String nombre     = "Esteban Piñeyrua";
-    String pais       = "Argentina";
+    String nombre        = "Esteban Piñeyrua";
+    String pais          = "Argentina";
     String[] skills      = {"HTML", "CSS", "JavaScript"};
     String[] aprendiendo = {"C", "Java", "SQL"};
 }
-` ` `
+```
 
 ---
 
 ## ⚡ Skills
 
-
-  
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
 ---
 
 ## 📚 Aprendiendo
 
-
-  
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,mysql" />
+</p>
 
 ---
 
-
+<p align="center">
   👾 Code • Learn • Build
-
-```
+</p>
