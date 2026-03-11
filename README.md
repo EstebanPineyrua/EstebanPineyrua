@@ -4,6 +4,7 @@
   <em>Desarrollador Backend en formación · Tecnicatura en Programación · UTN Argentina</em>
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Desarrollándome+en+Backend+Development;Java+%7C+SQL+%7C+C;Explorando+c%C3%B3mo+funciona+el+servidor" alt="Typing SVG" />
 </p>
