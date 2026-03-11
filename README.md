@@ -9,12 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/estebanpineyrua">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pineyruae@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=estebanpineyrua&style=for-the-badge&color=00B4D8" alt="Profile views"/>
 </p>
 
