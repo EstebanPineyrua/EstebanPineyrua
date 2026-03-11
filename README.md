@@ -1,11 +1,11 @@
 <h1 align="center">¡Hola! Soy Esteban Piñeyrua 👋</h1>
 
 <p align="center">
-  <em>Desarrollador Frontend · Tecnicatura en Programación · UTN Argentina</em>
+  <em>Desarrollador Backend en formación · Tecnicatura en Programación · UTN Argentina</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Desarrollador+Frontend+en+formaci%C3%B3n;HTML+%7C+CSS+%7C+JavaScript;Aprendiendo+Java%2C+C+y+MySQL;Construyendo+un+proyecto+a+la+vez+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Aprendiendo+Backend+Development;Java+%7C+SQL+%7C+APIs+REST;Explorando+c%C3%B3mo+funciona+el+servidor;Un+commit+a+la+vez+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,13 +22,9 @@
 
 ## 👋 Sobre mí
 
-Desarrollador web en formación, estudiando **Tecnicatura en Programación en la UTN Argentina**.
-Me enfoco en el desarrollo frontend — construyo interfaces con **HTML, CSS y JavaScript** y estoy
-expandiendo mi stack hacia **Java, C y MySQL**.
+Desarrollador en formación con foco en **backend** — me interesa entender lo que pasa del lado del servidor: lógica de negocio, bases de datos, APIs y arquitectura.
 
-Busco mi primera experiencia real: proyectos donde pueda aprender rápido, aportar energía
-y crecer junto a un equipo. Cuando no estoy frente al código, estoy en la montaña sobre
-una tabla de snow. 🏂
+Estudio **Tecnicatura en Programación en la UTN Argentina** y estoy explorando distintos stacks para elegir con criterio dónde especializarme. Cuando no estoy frente al código, estoy en la montaña sobre una tabla de snow. 🏂
 
 > *"Todavía no tengo años de experiencia — pero tengo hambre de aprender y consistencia para demostrarlo."*
 
@@ -36,29 +32,39 @@ una tabla de snow. 🏂
 
 ## ⚡ Tech Stack
 
-### Domino
+### Base
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
 </p>
 
-### Aprendiendo
+### Explorando para Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,c" />
 </p>
 
 ---
 
-## 🚀 Proyectos destacados
+## 🎯 Actualmente
 
-> 💡 *Estoy construyendo mis primeros proyectos — ¡próximamente acá!*
+- 🎓 Cursando **Tecnicatura en Programación** en UTN Argentina
+- 🔧 Explorando el mundo **backend**: Java, SQL, APIs REST
+- 📖 Aprendiendo **programación orientada a objetos** y lógica del servidor
+- 🧪 Construyendo proyectos pequeños para aplicar lo que aprendo
+- 🔍 Buscando mi **primera oportunidad** en el mundo tech
 
-<!-- Descomenta y completá cuando tengas proyectos:
+---
+
+## 🚀 Proyectos
+
+> 💡 *Primeros proyectos backend en camino — ¡próximamente acá!*
+
+<!-- Descomenta cuando tengas proyectos:
 
 | Proyecto | Descripción | Stack | Link |
 |---|---|---|---|
-| 🌐 **Mi Portfolio** | Sitio personal con mis proyectos y experiencia | HTML · CSS · JS | [Ver repo](#) |
-| 🛒 **App de Tareas** | Gestor de tareas con CRUD completo | HTML · CSS · JS | [Ver repo](#) |
-| 🎮 **Mini Juego** | Juego interactivo en el navegador | JavaScript | [Ver repo](#) |
+| 🔌 **API REST** | API con operaciones CRUD básicas | Java · Spring Boot | [Ver repo](#) |
+| 🗄️ **DB Project** | Modelo de base de datos relacional | MySQL | [Ver repo](#) |
+| 🛠️ **CLI Tool** | Herramienta de línea de comandos | Java / C | [Ver repo](#) |
 
 -->
 
@@ -77,18 +83,7 @@ una tabla de snow. 🏂
 
 ---
 
-## 🎯 Actualmente
-
-- 🎓 Cursando **Tecnicatura en Programación** en UTN Argentina
-- 💻 Practicando **JavaScript** y construcción de proyectos reales
-- 📖 Aprendiendo **Java** y fundamentos de programación orientada a objetos
-- 🔍 Buscando mi **primera oportunidad** en el mundo tech
-
----
-
 ## 📫 Hablemos
-
-¿Tenés un proyecto interesante, una oportunidad o simplemente querés conectar?
 
 <p>
   <a href="https://linkedin.com/in/estebanpineyrua">
@@ -102,5 +97,5 @@ una tabla de snow. 🏂
 ---
 
 <p align="center">
-  <em>👾 Code · Learn · Build — un commit a la vez.</em>
+  <em>👾 Backend · Logic · Build — un commit a la vez.</em>
 </p>
