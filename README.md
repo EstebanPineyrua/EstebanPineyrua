@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Aprendiendo+a+programar+cada+d%C3%ADa;HTML+%7C+CSS+%7C+JavaScript;Explorando+C%2C+Java+y+SQL;Code+%E2%80%A2+Learn+%E2%80%A2+Build" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ## 🧑‍💻 Sobre mí
@@ -43,15 +39,6 @@ class Esteban {
 </p>
 
 > Cursando **Programación 1**, **Arquitectura y Sistemas Operativos**, **Matemáticas** y **Organización Empresarial** — 1er cuatrimestre 2026.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
 ---
 
