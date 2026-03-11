@@ -19,11 +19,8 @@
 ```java
 class Esteban {
     String nombre        = "Esteban Piñeyrua";
-    String pais          = "Argentina 🇦🇷";
+    String pais          = "Argentina";
     String universidad   = "UTN — Tecnicatura en Programación";
-    String año           = "1er año (2026)";
-    String[] skills      = {"HTML", "CSS", "JavaScript"};
-    String[] aprendiendo = {"C", "Java", "SQL"};
     String objetivo      = "Crecer como desarrollador y sumar experiencia real";
     String funFact       = "Snowboarder 🏂 cuando no estoy frente al código";
 }
@@ -61,10 +58,10 @@ class Esteban {
 ## 📫 Contacto
 
 <p align="center">
-  <a href="mailto:TU_EMAIL">
+  <a href="mailto:pineyruae@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/TU_LINKEDIN">
+  <a href="https://linkedin.com/in/[TU_LINKEDIN](https://www.linkedin.com/in/estebanpineyrua/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
