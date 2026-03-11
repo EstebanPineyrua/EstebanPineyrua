@@ -51,7 +51,7 @@ Estudio **Tecnicatura en Programación en la UTN Argentina** y estoy explorando 
 
 ## 🚀 Proyectos
 
-> 💡 *Primeros proyectos backend en camino — ¡próximamente acá!*
+*Primeros proyectos backend en camino*
 
 <!-- Descomenta cuando tengas proyectos:
 
