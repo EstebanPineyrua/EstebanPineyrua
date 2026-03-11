@@ -92,5 +92,5 @@ Estudio **Tecnicatura en Programación en la UTN Argentina** y estoy explorando 
 ---
 
 <p align="center">
-  <em>👾 Backend · Logic · Build — un commit a la vez.</em>
+  <em>👾 Learn · Logic · Build</em>
 </p>
