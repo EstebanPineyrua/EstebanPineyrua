@@ -20,14 +20,16 @@ class Esteban {
 }
 
 
-Skills
+## ⚡ Skills
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
+---
 
-Aprendiendo 
+## 📚 Aprendiendo
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,java,mysql" />
 </p>
