@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Developer en formación<br>
-📚 Aprendiendo programación<br>
+Estudiante de tecnicatura en programacion en UTN<br>
 🇦🇷 Argentina
 </p>
 
