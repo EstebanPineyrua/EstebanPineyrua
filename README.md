@@ -1,4 +1,4 @@
-<h1 align="center">👾 Esteban Piñeyrua</h1>
+<h1 align="center">Esteban Piñeyrua</h1>
 
 <p align="center">
 💻 Developer en formación<br>
