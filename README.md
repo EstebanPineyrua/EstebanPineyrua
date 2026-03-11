@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 Sobre mí
+##Sobre mí
 
 Desarrollador en formación con foco en **backend** — me interesa entender lo que pasa del lado del servidor: lógica de negocio, bases de datos, APIs y arquitectura.
 
