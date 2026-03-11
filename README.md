@@ -17,7 +17,7 @@ class Esteban {
 
     String[] skills = {"HTML", "CSS", "JavaScript"};
     String[] aprendiendo = {"C", "Java", "SQL"};
-}
+}´´´
 ## ⚡ Skills
 
 <p align="center">
