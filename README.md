@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Esteban Piñeyrua 👋</h1>
+<h1 align="center">¡Hola! Soy Esteban Piñeyrua</h1>
 
 <p align="center">
   <em>Desarrollador Backend en formación · Tecnicatura en Programación · UTN Argentina</em>
@@ -41,11 +41,11 @@ Estudio **Tecnicatura en Programación en la UTN Argentina** y estoy explorando 
 
 ## 🎯 Actualmente
 
-- 🎓 Cursando **Tecnicatura en Programación** en UTN Argentina
-- 🔧 Explorando el mundo **backend**: Java, SQL, APIs REST
-- 📖 Aprendiendo **programación orientada a objetos** y lógica del servidor
-- 🧪 Construyendo proyectos pequeños para aplicar lo que aprendo
-- 🔍 Buscando mi **primera oportunidad** en el mundo tech
+- Cursando **Tecnicatura en Programación** en UTN Argentina
+- Explorando el mundo **backend**: Java, SQL, C
+- Aprendiendo **programación orientada a objetos** y lógica del servidor
+- Construyendo proyectos pequeños para aplicar lo que aprendo
+- Buscando mi **primera oportunidad** en el mundo tech
 
 ---
 
