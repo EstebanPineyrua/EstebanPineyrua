@@ -34,7 +34,7 @@ Estudio **Tecnicatura en Programación en la UTN Argentina** y estoy explorando 
 
 ### Explorando para Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,mysql,c++" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,c" />
 </p>
 
 ---
