@@ -19,13 +19,13 @@
 
 Desarrollador en formación con foco en **backend** — me interesa entender lo que pasa del lado del servidor: lógica de negocio, bases de datos, APIs y arquitectura.
 
-Estudio **Tecnicatura en Programación en la UTN Argentina** y estoy explorando distintos stacks para elegir con criterio dónde especializarme. Cuando no estoy frente al código, estoy en la montaña sobre una tabla de snow. 🏂
+Estudio **Tecnicatura en Programación en la UTN Argentina** y estoy explorando distintos stacks para elegir con criterio dónde especializarme. Cuando no estoy frente al código, estoy en la montaña sobre una tabla de snow. 
 
 > *"Todavía no tengo años de experiencia — pero tengo hambre de aprender y consistencia para demostrarlo."*
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 ### Base
 <p>
@@ -39,7 +39,7 @@ Estudio **Tecnicatura en Programación en la UTN Argentina** y estoy explorando 
 
 ---
 
-## 🎯 Actualmente
+## Actualmente
 
 - Cursando **Tecnicatura en Programación** en UTN Argentina
 - Explorando el mundo **backend**: Java, SQL, C
@@ -51,12 +51,12 @@ Estudio **Tecnicatura en Programación en la UTN Argentina** y estoy explorando 
 
 ## Proyectos
 
-### 🎿 Meki Service
+### Meki Service
 Sistema de gestión para talleres.
 Electron · Firebase · JavaScript<br>
 [Ver proyecto](https://github.com/EstebanPineyrua/Meki-Service)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estebanpineyrua&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -69,7 +69,7 @@ Electron · Firebase · JavaScript<br>
 
 ---
 
-## 📫 Hablemos
+## Hablemos
 
 <p>
   <a href="https://linkedin.com/in/estebanpineyrua">
@@ -83,5 +83,5 @@ Electron · Firebase · JavaScript<br>
 ---
 
 <p align="center">
-  <em>👾 Learn · Logic · Build</em>
+  <em> Learn · Logic · Build</em>
 </p>
