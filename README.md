@@ -54,19 +54,7 @@ Estudio **Tecnicatura en Programación en la UTN Argentina** y estoy explorando 
 ### 🎿 Meki Service
 Sistema de gestión para talleres.
 Electron · Firebase · JavaScript
-
 [Ver proyecto](https://github.com/EstebanPineyrua/Meki-Service)
-
-
-| Proyecto | Descripción | Stack | Link |
-|---|---|---|---|
-| 🔌 **API REST** | API con operaciones CRUD básicas | Java · Spring Boot | [Ver repo](#) |
-| 🗄️ **DB Project** | Modelo de base de datos relacional | MySQL | [Ver repo](#) |
-| 🛠️ **CLI Tool** | Herramienta de línea de comandos | Java / C | [Ver repo](#) |
-
--->
-
----
 
 ## 📊 GitHub Stats
 
