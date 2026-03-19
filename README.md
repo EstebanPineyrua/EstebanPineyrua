@@ -53,7 +53,7 @@ Estudio **Tecnicatura en Programación en la UTN Argentina** y estoy explorando 
 
 ### 🎿 Meki Service
 Sistema de gestión para talleres.
-Electron · Firebase · JavaScript
+Electron · Firebase · JavaScript<br>
 [Ver proyecto](https://github.com/EstebanPineyrua/Meki-Service)
 
 ## 📊 GitHub Stats
