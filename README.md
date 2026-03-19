@@ -49,11 +49,14 @@ Estudio **Tecnicatura en Programación en la UTN Argentina** y estoy explorando 
 
 ---
 
-## 🚀 Proyectos
+## Proyectos
 
-*Primeros proyectos backend en camino*
+### 🎿 Meki Service
+Sistema de gestión para talleres.
+Electron · Firebase · JavaScript
 
-<!-- Descomenta cuando tengas proyectos:
+[Ver proyecto](https://github.com/EstebanPineyrua/Meki-Service)
+
 
 | Proyecto | Descripción | Stack | Link |
 |---|---|---|---|
