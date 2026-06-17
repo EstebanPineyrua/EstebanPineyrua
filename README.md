@@ -32,7 +32,7 @@ Cuando no estoy frente al código, estoy en la montaña sobre una tabla de snow.
 
 ### Backend (foco actual)
 <p>
-  <img src="https://skillicons.dev/icons?i=java,py,flask" />
+  <img src="https://skillicons.dev/icons?i=java,spring,py,flask" />
 </p>
 
 ### Desktop & herramientas
