@@ -1,14 +1,10 @@
 <h1 align="center">¡Hola! Soy Esteban Piñeyrua</h1>
-
 <p align="center">
-  <em>Desarrollador Backend en formación · Tecnicatura en Programación · UTN Argentina</em>
+  <em>Desarrollador en formación · Tecnicatura en Programación · UTN Argentina</em>
 </p>
-
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%7C+SQL+%7C+C;Aprendiendo+y+construyendo" alt="Typing SVG" widht=650 />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Backend+Developer+en+formaci%C3%B3n;Java+%7C+Python+%7C+JavaScript;Construyendo+software+real" alt="Typing SVG" width="650" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=estebanpineyrua&style=for-the-badge&color=00B4D8" alt="Profile views"/>
 </p>
@@ -17,11 +13,13 @@
 
 ## Sobre mí
 
-Desarrollador en formación con foco en **backend** — me interesa entender lo que pasa del lado del servidor: lógica de negocio, bases de datos, APIs y arquitectura.
+Estudio **Tecnicatura en Programación en la UTN Argentina** y me especializo cada vez más en **backend**: lógica de negocio, bases de datos, APIs.
 
-Estudio **Tecnicatura en Programación en la UTN Argentina** y estoy explorando distintos stacks para elegir con criterio dónde especializarme. Cuando no estoy frente al código, estoy en la montaña sobre una tabla de snow. 
+A diferencia de muchos perfiles junior, no aprendo solo con ejercicios sueltos. Desde 2019 trabajo como **técnico de soporte IT freelance**, y en paralelo desarrollé software que hoy usan negocios reales para resolver problemas reales, no proyectos que se quedan en una carpeta.
 
-> *"Todavía no tengo años de experiencia — pero tengo hambre de aprender y consistencia para demostrarlo."*
+Cuando no estoy frente al código, estoy en la montaña sobre una tabla de snow. 🏂
+
+> *"No tengo años de experiencia como developer todavía, pero sí tengo experiencia resolviendo problemas reales de negocios reales — y eso se nota en el código."*
 
 ---
 
@@ -32,9 +30,14 @@ Estudio **Tecnicatura en Programación en la UTN Argentina** y estoy explorando 
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
 </p>
 
-### Explorando para Backend
+### Backend (foco actual)
 <p>
-  <img src="https://skillicons.dev/icons?i=java,mysql,c" />
+  <img src="https://skillicons.dev/icons?i=java,py,flask,mysql,c" />
+</p>
+
+### Desktop & herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=electron,firebase" />
 </p>
 
 ---
@@ -42,21 +45,28 @@ Estudio **Tecnicatura en Programación en la UTN Argentina** y estoy explorando 
 ## Actualmente
 
 - Cursando **Tecnicatura en Programación** en UTN Argentina
-- Explorando el mundo **backend**: Java, SQL, C
-- Aprendiendo **programación orientada a objetos** y lógica del servidor
-- Construyendo proyectos pequeños para aplicar lo que aprendo
-- Buscando mi **primera oportunidad** en el mundo tech
+- Profundizando en **Java orientado a backend**, camino a Spring Boot
+- Aplicando **programación orientada a objetos** y lógica del lado del servidor
+- Manteniendo aplicaciones propias **en uso productivo real**
+- Tomando **proyectos freelance** y abierto a mi primera oportunidad como **junior developer**
 
 ---
 
 ## Proyectos
 
-### Meki Service
-Sistema de gestión para talleres.
-Electron · Firebase · JavaScript<br>
-[Ver proyecto](https://github.com/EstebanPineyrua/Meki-Service)
+### Meki Ski Service
+Sistema de gestión de stock, clientes y ventas para talleres. **En uso productivo real** en un taller de ski y snowboard en Buenos Aires.
+
+`Electron` · `JavaScript` · `Firebase`
+
+### MekiSmart
+PWA con escaneo de código de barras para consulta rápida de precios en comercios.
+
+`Python` · `Flask`
 
 ## Hablemos
+
+¿Tenés un proyecto en mente o una oportunidad junior? Estoy disponible.
 
 <p>
   <a href="https://linkedin.com/in/estebanpineyrua">
@@ -70,5 +80,5 @@ Electron · Firebase · JavaScript<br>
 ---
 
 <p align="center">
-  <em> Learn · Logic · Build</em>
+  <em>Learn · Logic · Build</em>
 </p>
